@@ -1,0 +1,17 @@
+{
+  "name": "dotimage",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "fontfaceobserver": "^2.1.0",
+    "typed.js": "^2.0.12"
+  }
+}
